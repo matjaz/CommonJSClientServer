@@ -1,0 +1,12 @@
+{
+  "name": "CommonJSClientServer",
+  "version": "0.0.0",
+  "author": "Matjaz Lipus",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-concat": "~0.3.0",
+    "browserify": "~3.38.0",
+    "grunt-browserify": "~2.0.1"
+  }
+}
